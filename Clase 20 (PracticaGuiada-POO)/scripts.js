@@ -12,6 +12,8 @@ Crea una función que muestre los autores ordenados alfabéticamente
 Crea una función que pida un género y muestre la información de los libros que pertenezcan a ese género usando un el método que devuelve la información
 */
 
+/*
+
 class Book {
     constructor(title, author, year, gender) {
         this.title = title
@@ -75,7 +77,7 @@ const showGender = () => {
         }
     }
 
-}
+}*/
 
 //showAllBooks()
 //showAuthors()
